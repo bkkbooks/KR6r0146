@@ -1,0 +1,321 @@
+canonical_identifier: bkk:krp/KR6r0146/v1
+canonical_location: https://kanripo.org/bkk/KR6r0146/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 北山錄
+  identifiers:
+    alt_id:
+    - T52n2113
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T52/T52n2113.xml
+    old_id: T52n2113
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0146_000.yaml, hash: 'sha256:bb676da1ec963fc9d1b66fcdc1cfa05056fdb8da7fd28200c44a2ccada54a204'}
+  - {seq: 1, filename: KR6r0146_001.yaml, hash: 'sha256:cd90edab68d8baf03f8f9b8db2563d02846f579cc912babe8514068eae31984d'}
+  - {seq: 2, filename: KR6r0146_002.yaml, hash: 'sha256:145ba533083c8c25aa992e5dd90284d358583e3d4649340bf9d332e9c5e9bbbe'}
+  - {seq: 3, filename: KR6r0146_003.yaml, hash: 'sha256:1b829a69aa219a8790e3a5ac1ed1ffad3808a4bfb445afa1900118a00502d273'}
+  - {seq: 4, filename: KR6r0146_004.yaml, hash: 'sha256:4241b94032aabf80a61a5a70013fa27d9d2b6e98567284e48a884f5336b47d2f'}
+  - {seq: 5, filename: KR6r0146_005.yaml, hash: 'sha256:06d6f1b8dc12e02e20d308e5b0fe9df054b744cff971c9aa6fbe2c7f5d4987e7'}
+  - {seq: 6, filename: KR6r0146_006.yaml, hash: 'sha256:0852541d40c05522c60a968cd5843122b5739a348eceb7e2092a49870e0b546e'}
+  - {seq: 7, filename: KR6r0146_007.yaml, hash: 'sha256:c4b2eb91380752cc2b33fe35eaa173b8986b50381e2a84191b442e1166fbc534'}
+  - {seq: 8, filename: KR6r0146_008.yaml, hash: 'sha256:d09d60e0a9179643d58d68c19aa92ba085a4117e22481482fc78e02c70d738de'}
+  - {seq: 9, filename: KR6r0146_009.yaml, hash: 'sha256:89d76b02b1cb2ea04df9ecd778dd5161590e418932c0c1d0cf32b6be442f50a4'}
+  - {seq: 10, filename: KR6r0146_010.yaml, hash: 'sha256:3806938f25a65ae7e020c7ac43b44e96b42ff2c398fe7cbadd3dca0dffc2b200'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0146_000.markers.yaml, hash: 'sha256:ce9d358d15fa18c26a663a1f4cfcaed6104689248e21f7d81600c169a3da47e2'}
+  - {seq: 1, role: markers, filename: assets/KR6r0146_001.markers.yaml, hash: 'sha256:ee596c8302acab3ba83d3278915d197c61c17da3ffe1d029c5d8f5da8bba6691'}
+  - {seq: 2, role: markers, filename: assets/KR6r0146_002.markers.yaml, hash: 'sha256:6b430f8edad9c8de1be1afae1c80c77f4b79f66e1a860cf0e286baa970cf4437'}
+  - {seq: 3, role: markers, filename: assets/KR6r0146_003.markers.yaml, hash: 'sha256:563134741582c1a6f39ade6cd9438d6410dfc61631ed0cb76d33efd2ebcf98ab'}
+  - {seq: 4, role: markers, filename: assets/KR6r0146_004.markers.yaml, hash: 'sha256:aad3d9415cf5fbfe3ff845fa0f7b014fc8678bf43a91a0f6c26bf8bdaa532754'}
+  - {seq: 5, role: markers, filename: assets/KR6r0146_005.markers.yaml, hash: 'sha256:2a49c07774d31a1d4bb27fa0da0bef4ffbe1ceab675282b3a4071671ae1325b3'}
+  - {seq: 6, role: markers, filename: assets/KR6r0146_006.markers.yaml, hash: 'sha256:00e34de70da65afaabdd8b7832d1d214eb1aec78fb414c9eec4ccc615c9bf422'}
+  - {seq: 7, role: markers, filename: assets/KR6r0146_007.markers.yaml, hash: 'sha256:d3b68a13b4fe96be2d02e44168947a20ed38d6007ff4d6b01b137defbdcd1b21'}
+  - {seq: 8, role: markers, filename: assets/KR6r0146_008.markers.yaml, hash: 'sha256:cef7d5e525ea2c83d7b67b2b88170aa941ec5a596e7900466a6d1b1d65fa2b11'}
+  - {seq: 9, role: markers, filename: assets/KR6r0146_009.markers.yaml, hash: 'sha256:05ab7cb3f7a714eb706e4f4b520137f6dce637de37ffa8c71b7f68f1c811aa73'}
+  - {seq: 10, role: markers, filename: assets/KR6r0146_010.markers.yaml, hash: 'sha256:692fb5fcdddb12f703ed46ce965286c2fc00a0dcafe46c1b12f165db0f92c061'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6r0146_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 北山錄序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0146_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 13737
+  label: 北山錄卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0146_T_001-mulu-1
+    span:
+    - body
+    - 103
+    - 103
+  label: 1 天地始(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0146_T_001-mulu-2
+    span:
+    - body
+    - 7557
+    - 7557
+  label: 2 聖人生(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0146_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 11706
+  label: 北山錄卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0146_T_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 3 法籍興(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0146_T_002-mulu-2
+    span:
+    - body
+    - 6871
+    - 6871
+  label: 4 真俗符(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0146_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 16908
+  label: 北山錄卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0146_T_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 5 合霸王(三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0146_T_003-mulu-2
+    span:
+    - body
+    - 10117
+    - 10117
+  label: 6 至化(三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0146_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 11115
+  label: 北山錄卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0146_T_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 7 宗師議(四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0146_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 14224
+  label: 北山錄卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0146_T_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 8 釋賓問(五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0146_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 14004
+  label: 北山錄卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0146_T_006-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 9 喪服問(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0146_T_006-mulu-2
+    span:
+    - body
+    - 4713
+    - 4713
+  label: 10 譏異說(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0146_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 9058
+  label: 北山錄卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0146_T_007-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 11 （綜名理）(七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0146_T_007-mulu-2
+    span:
+    - body
+    - 6778
+    - 6778
+  label: 12 報應驗(七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0146_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 12359
+  label: 北山錄卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0146_T_008-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 13 論業理(八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0146_T_008-mulu-2
+    span:
+    - body
+    - 5805
+    - 5805
+  label: 14 住持行(八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0146_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 8380
+  label: 北山錄卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0146_T_009-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 15 異學(九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0146_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 10379
+  label: 北山錄卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0146_T_010-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 16 外信(一〇)
+  type: mulu
+  level: 1
+hash: sha256:d37a4cdfd79a7590cc9863f7407759d14df90e0464b65626e872a97f88278892
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
