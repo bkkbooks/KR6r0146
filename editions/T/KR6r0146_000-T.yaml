@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6r0146/t/v1/juan/0
 seq: 0
-front:
+body:
   text: 北山錄序錢唐沈遼始余欲聞內典訪諸南屏梵臻法師於是受斯錄焉南屏云往聞老師言丁祕監謂酷愛其書一見如不及至手傳其本老師之言可信不疑者丁公所述作多所自出也善乎一乘以為宗百家以為支尋其支如涉江河隨地得宜不得其源猶足以為多聞況遂達其源乎然其書出未久而世罕傳能傳者莫不有名於時而其傳者皆祕玩之以為資不肯廣也余聞神清在元和時其道甚顯為當世公卿所尊禮從其學者至千人而性喜述作其出入諸經者或刪焉或益焉凡百餘卷而斯錄獨發其所縕尤稱贍博使世之學者盡得其書而達其源何患不為神清乎神清其名也生大安山下後居長平山陰故謂之北山錄惟賢大師先得蜀本將傳諸好事者請余敘其大方而刻之因述南屏法師之言以為首云熙寧元年五月十二日序
   hash: sha256:c11c39a4683ce847d46e03dbb71c33a02eb489bd9f42747a1fb5fed5cabc2d8a
   markers:
   - {type: 序, offset: 0, content: 北山錄序, id: KR6r0146_T_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 北山錄
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/T/T52/T52n2113.xml
     old_id: T52n2113
-hash: sha256:36f1941c15af6c3e0f27564c33a9f818eb12aabf0c079ad74139887b8d397d41
+hash: sha256:19ba3fbd3d5b8e8b07f033f477065c859898092fb0c10710880cfee923a4bb29
